@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//this code is for git assinment 
 public class DoWhileSwitch {
 	public static void main(String args[])
 	{
